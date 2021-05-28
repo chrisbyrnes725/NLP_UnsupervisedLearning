@@ -8,6 +8,7 @@ Abstract
 Athletic apparel retailer Lululemon will be entering the athletic shoe market in 2022. Though not an exhaustive list, Nike, Adidas, Under Armour, New Balance, and Asics will be some of their primary competitors in this segment. My project looks at Amazon reviews for these competitor’s shoes, with similar expected purpose, and identify topics of most interest to consumers in order to develop a focus and potential marketing campaign. As a majority of Lululemon’s client base is female, the focus will only be on women’s shoes in this analysis. 
 
 Data 
+
 Over 16,000 customer reviews were scraped from Amazon.com using Google’s web scraper. The file Shoes_NLP.csv created in Excel is resulting file read into python for analysis.
 
 Tools
